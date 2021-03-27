@@ -1,6 +1,6 @@
 # THEME-DE-ECOLE-SUPERIEURE-DE-TECHNOLOGIE
 ## ESTSB-gi
-> une thème WordPress simple pour école superieur de technologie sidi bennour.
+> une thème WordPress simple pour école superieure de technologie sidi bennour.
 ![1](https://user-images.githubusercontent.com/72650429/112704763-17300f00-8e9c-11eb-92ec-a945b2e96285.png)
 ![2](https://user-images.githubusercontent.com/72650429/112704778-244cfe00-8e9c-11eb-965f-d99d3efc4b56.png)
 ![3](https://user-images.githubusercontent.com/72650429/112704781-2911b200-8e9c-11eb-860a-136d987c95c4.png)
@@ -28,7 +28,7 @@ Enfin, nous tenons à remercier le seul et unique, notre professeur Mr BADDI YOU
 -doha lafdali -[dohalafdali123@gmail.com]
 - Thabit Imane -[thabiteimane@gmail.com]
 -Zraidi Najwa -[zraidi.najwa2001@gmail.com]
--aziza boukoume -[]
+-aziza boukoume -[3azizaboukoum@gmail.com]
 - Project Link : [https://github.com/Najwa12/THEME-DE-ECOLE-SUPERIEURE-DE-TECHNOLOGIE]
 
 
